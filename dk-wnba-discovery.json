@@ -8,6 +8,31 @@
     {
       "url": "https://sportsbook-nash.draftkings.com/sites/US-SB/api/sportscontent/navigation/v1/sports?format=json",
       "status": "null"
+    },
+    {
+      "url": "https://api.draftkings.com/lineups/v1/sports/WNBA/draftgroups",
+      "status": "null",
+      "preview": "null"
+    },
+    {
+      "url": "https://api.draftkings.com/lineups/v1/sports",
+      "status": "null",
+      "preview": "null"
+    },
+    {
+      "url": "https://sportsbook-nash.draftkings.com/sites/US-SB/api/sportscontent/controldata/league/leagueSubcategory/v1/markets?sport=basketball&leagueSlug=wnba&categorySlug=player-points&subcategorySlug=points",
+      "status": "null",
+      "preview": "null"
+    },
+    {
+      "url": "https://sportsbook.draftkings.com/sites/US-SB/api/2/featured/sport/basketball",
+      "status": "null",
+      "preview": "null"
+    },
+    {
+      "url": "https://sportsbook.draftkings.com/sites/US-SB/api/2/sports",
+      "status": "null",
+      "preview": "null"
     }
   ],
   "wnbaLeagueId": null,
