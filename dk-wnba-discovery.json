@@ -1,5 +1,16 @@
 {
-  "leagueId": null,
+  "probeWorking": false,
+  "listApiResults": [
+    {
+      "url": "https://sportsbook-nash.draftkings.com/sites/US-SB/api/sportscontent/controldata/league/v1/leagues?format=json",
+      "status": "null"
+    },
+    {
+      "url": "https://sportsbook-nash.draftkings.com/sites/US-SB/api/sportscontent/navigation/v1/sports?format=json",
+      "status": "null"
+    }
+  ],
+  "wnbaLeagueId": null,
   "subcatIds": [],
   "eventSamples": [],
   "marketSamples": []
